@@ -8,6 +8,7 @@
 
 - GUID uniqueness <https://stackoverflow.com/a/904967/10251041>
 - Key phrase <https://www.npmjs.com/package/bip39>
+- Check encryption key before sending encrypted data. Needed due to small key size.
 
 ## Later
 
